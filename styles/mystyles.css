@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: darkslategray;
+    font-weight: normal;
+
+}
+main{
+    text-align: justify;
+}
+.italic{
+    font-style: normal;
+}
+.underline{
+    text-decoration: underline;
+}
+#bold{
+    font-weight: bolder;
+}
